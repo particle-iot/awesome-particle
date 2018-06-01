@@ -121,7 +121,7 @@
 * [PL_microEPD](https://github.com/RobPo/Paperino)
 * [MQTT](https://github.com/hirotakaster/MQTT.git)
 * [Adafruit_DHT](https://github.com/russgrue/adafruit_dht_library.git)
-* [Adafruit_SSD1306]https://github.com/mpechner/adafruit_ssd1306.git)
+* [Adafruit_SSD1306](https://github.com/mpechner/adafruit_ssd1306.git)
 * [HttpClient](https://github.com/nmattisson/httpclient.git)
 * [SdFat](https://github.com/greiman/SdFat-Particle.git)
 * [ArduinoJson](https://build.particle.io/libs/ArduinoJson/5.11.2/tab/ArduinoJson.h)
