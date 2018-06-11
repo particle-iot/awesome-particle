@@ -102,7 +102,7 @@
 - [Real-Time Graphing with Photon, SSE and HTML5 Canvas](https://github.com/rickkas7/livegraph)
 - [Photon & Node.js Server Example](https://github.com/rickkas7/localserver)
 - [Photon Network Locator Example](https://github.com/rickkas7/serverlocator)
-- [Flash firmware to Particle Devices from an SD card](https://github.com/rickkas7/wifimonitor)
+- [Flash firmware to Particle Devices from an SD card](https://github.com/rickkas7/sdfirmwareflash)
 
 ## Hardware Datasheets
 
@@ -132,7 +132,7 @@
 ### Community Libraries
 
 - [neopixel](https://github.com/technobly/Particle-NeoPixel.git)
-- [blynk](https://github.com/technobly/Particle-NeoPixel.git)
+- [blynk](https://build.particle.io/libs/blynk/0.5.3/tab/blynk.cpp)
 - [OneWire](https://build.particle.io/libs/OneWire/2.0.1/tab/DS18.cpp)
 - [Ubidots](https://github.com/ubidots/ubidots-particle)
 - [google-maps-device-locator](https://github.com/spark/google-maps-device-locator.git)
@@ -140,7 +140,7 @@
 - [Serial_LCD_Sparkfun](https://github.com/spark/serial_lcd_library.git)
 - [PL_microEPD](https://github.com/RobPo/Paperino)
 - [MQTT](https://github.com/hirotakaster/MQTT.git)
-- [Adafruit_DHT](https://github.com/russgrue/adafruit_dht_library.git)
+- [PietteTech_DHT](https://build.particle.io/libs/PietteTech_DHT/0.0.5/tab/PietteTech_DHT.cpp)
 - [Adafruit_SSD1306](https://github.com/mpechner/adafruit_ssd1306.git)
 - [HttpClient](https://github.com/nmattisson/httpclient.git)
 - [SdFat](https://github.com/greiman/SdFat-Particle.git)
