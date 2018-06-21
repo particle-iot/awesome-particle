@@ -18,8 +18,6 @@
   - [Docs](#docs)
   - [Tutorials](#tutorials)
   - [Hardware Datasheets](#hardware-datasheets)
-- [Content Partners](#partners)
-- [People using Particle](#people-using-particle)
 - [Popular Libraries](#community-libraries)
   - [Particle Libraries](#particle-libraries)
   - [Community Libraries](#community-libraries)
@@ -64,9 +62,12 @@
 
 - [June 11-15 - NDC {Oslo} ](https://ndcoslo.com/talk/ditching-promises-and-socially-acceptable-callback-hell/)
 - [August 5-8 - That Conference](https://www.thatconference.com/sessions/session/12893)
+- [September 27 - Open Source Hardware Summit](https://2018.oshwa.org/)
+- [October 21-23 - All Things Open](https://allthingsopen.org/)
 
 ### Podcasts
 
+- [Zach Supalla on Cool Tools episode 115](http://kk.org/cooltools/zach-supalla-ceo-of-particle/)
 - [Jonathan Beri on Embedded.fm Episode 222](https://www.embedded.fm/episodes/222)
 - [Brandon Satrom on the MacroFab Engineering Podcast Episode 122](https://macrofab.com/blog/mep-ep122-brandon-satrom-lanot/)
 
@@ -117,14 +118,6 @@
 - [P1 Datasheet](<https://docs.particle.io/datasheets/photon-(wifi)/p1-datasheet/>)
 - [Electron Datasheet](<https://docs.particle.io/datasheets/electron-(cellular)/electron-datasheet/>)
 - [E Series Datasheet](<https://docs.particle.io/datasheets/electron-(cellular)/e-series-datasheet/>)
-
-# Event/Content Partners
-
-- [Vue Vixens](https://vuevixens.org/)
-
-# People Using Particle
-
-- [OSBeehives](https://www.osbeehives.com/)
 
 # Popular Libraries
 
