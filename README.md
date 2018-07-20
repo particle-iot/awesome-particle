@@ -15,7 +15,7 @@
   - [External Resources](#external-resources)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
-  - [Docs](#useful-tools-docs--faqs)
+  - [Useful Tools, Docs & FAQs](#useful-tools-docs--faqs)
   - [Tutorials](#tutorials)
   - [Hardware Datasheets](#hardware-datasheets)
 - [Popular Libraries](#community-libraries)
