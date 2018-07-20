@@ -75,8 +75,9 @@
 - [Jonathan Beri on Embedded.fm Episode 222](https://www.embedded.fm/episodes/222)
 - [Brandon Satrom on the MacroFab Engineering Podcast Episode 122](https://macrofab.com/blog/mep-ep122-brandon-satrom-lanot/)
 
-## Useful Tools, Docs & FAQs
+### Useful Tools, Docs & FAQs
 
+- [po-util (Particle Offline Utility)](https://po-util.com/)
 - [Serial FAQ](https://docs.particle.io/faq/particle-devices/serial-faq)
 - [I2C FAQ](https://docs.particle.io/faq/particle-devices/i2c-faq)
 - [Local Builds using GCC-ARM](https://docs.particle.io/faq/particle-tools/local-build/photon/)
