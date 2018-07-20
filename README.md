@@ -12,7 +12,6 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Tools and SDKs](#tools-and-sdks)
-  - [Community Tools and SDKs](#community-tools-and-sdks)
   - [External Resources](#external-resources)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
@@ -51,9 +50,6 @@
 - [Windows SDK](https://docs.particle.io/reference/windows/)
 - [Webhooks](https://docs.particle.io/reference/webhooks/)
 - [Particle Agent for Raspberry Pi](https://docs.particle.io/reference/particle-agent/)
-
-### Community Tools and SDKs
-- [po-util (Particle Offline Utility)](https://po-util.com/)
 
 ### External Resources
 
