@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome Particle [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Particle [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to [Particle](https://particle.io)
 
@@ -75,7 +75,7 @@
 - [Jonathan Beri on Embedded.fm Episode 222](https://www.embedded.fm/episodes/222)
 - [Brandon Satrom on the MacroFab Engineering Podcast Episode 122](https://macrofab.com/blog/mep-ep122-brandon-satrom-lanot/)
 
-### Useful Docs & FAQs
+## Useful Tools, Docs & FAQs
 
 - [Serial FAQ](https://docs.particle.io/faq/particle-devices/serial-faq)
 - [I2C FAQ](https://docs.particle.io/faq/particle-devices/i2c-faq)
