@@ -1,13 +1,13 @@
 <p align="center">
   <br>
-  <img width="400" src="./media/awesome-particle.svg" alt="logo of awesome-particle repository">
+  <img width="300" src="./media/awesome-particle.svg" alt="logo of awesome-particle repository">
   <br>
   <br>
 </p>
 
 ## Awesome Particle [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Particle
+> A curated list of awesome things related to [Particle](https://particle.io)
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -15,7 +15,7 @@
   - [External Resources](#external-resources)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
-  - [Docs](#docs)
+  - [Useful Tools, Docs & FAQs](#useful-tools-docs--faqs)
   - [Tutorials](#tutorials)
   - [Hardware Datasheets](#hardware-datasheets)
 - [Popular Libraries](#community-libraries)
@@ -71,8 +71,9 @@
 - [Jonathan Beri on Embedded.fm Episode 222](https://www.embedded.fm/episodes/222)
 - [Brandon Satrom on the MacroFab Engineering Podcast Episode 122](https://macrofab.com/blog/mep-ep122-brandon-satrom-lanot/)
 
-## Useful Docs & FAQs
+### Useful Tools, Docs & FAQs
 
+- [po-util (Particle Offline Utility)](https://po-util.com/)
 - [Serial FAQ](https://docs.particle.io/faq/particle-devices/serial-faq)
 - [I2C FAQ](https://docs.particle.io/faq/particle-devices/i2c-faq)
 - [Local Builds using GCC-ARM](https://docs.particle.io/faq/particle-tools/local-build/photon/)
@@ -93,7 +94,7 @@
 - [Particle and Google Geolocation API](https://github.com/rickkas7/locator)
 - [Particle Real-Time Clock tips](https://github.com/rickkas7/locator)
 
-## Tutorials
+### Tutorials
 
 - [Google Cloud Platform Integration](https://docs.particle.io/tutorials/integrations/google-cloud-platform/)
 - [Google Maps Integration](https://docs.particle.io/tutorials/integrations/google-maps/)
@@ -112,7 +113,7 @@
 - [Photon Network Locator Example](https://github.com/rickkas7/serverlocator)
 - [Flash firmware to Particle Devices from an SD card](https://github.com/rickkas7/sdfirmwareflash)
 
-## Hardware Datasheets
+### Hardware Datasheets
 
 - [Photon Datasheet](<https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/>)
 - [P1 Datasheet](<https://docs.particle.io/datasheets/photon-(wifi)/p1-datasheet/>)
