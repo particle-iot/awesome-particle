@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome Particle [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Particle [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to [Particle](https://particle.io)
 
@@ -24,7 +24,7 @@
 
 # Resources
 
-### Official Resources
+## Official Resources
 
 - [Particle Docs](https://docs.particle.io/)
 - [Particle Forums](https://community.particle.io/)
@@ -37,7 +37,7 @@
 - [Particle Blog](https://blog.particle.io)
 - [Particle Store](https://store.particle.io)
 
-### Tools and SDKs
+## Tools and SDKs
 
 - [Web IDE (Particle Build)](https://build.particle.io)
 - [Particle Console](https://console.particle.io)
@@ -51,29 +51,28 @@
 - [Webhooks](https://docs.particle.io/reference/webhooks/)
 - [Particle Agent for Raspberry Pi](https://docs.particle.io/reference/particle-agent/)
 
-### External Resources
+## External Resources
 
 - [Particle on Hackster.io](https://www.hackster.io/particle)
 - [Particle on Instructables](http://www.instructables.com/howto/Particle/)
 - [Getting Started with the Photon by Simon Monk](https://www.amazon.com/Getting-Started-Photon-Affordable-Hackable/dp/1457187019)
 - [Community Supported Particle Clients](https://docs.particle.io/reference/community/)
 
-### Conferences
+## Conferences
 
 - [June 11-15 - NDC {Oslo} ](https://ndcoslo.com/talk/ditching-promises-and-socially-acceptable-callback-hell/)
 - [August 5-8 - That Conference](https://www.thatconference.com/sessions/session/12893)
 - [September 27 - Open Source Hardware Summit](https://2018.oshwa.org/)
 - [October 21-23 - All Things Open](https://allthingsopen.org/)
 
-### Podcasts
+## Podcasts
 
 - [Zach Supalla on Cool Tools episode 115](http://kk.org/cooltools/zach-supalla-ceo-of-particle/)
 - [Jonathan Beri on Embedded.fm Episode 222](https://www.embedded.fm/episodes/222)
 - [Brandon Satrom on the MacroFab Engineering Podcast Episode 122](https://macrofab.com/blog/mep-ep122-brandon-satrom-lanot/)
 
-### Useful Tools, Docs & FAQs
+## Useful Tools, Docs & FAQs
 
-- [po-util (Particle Offline Utility)](https://po-util.com/)
 - [Serial FAQ](https://docs.particle.io/faq/particle-devices/serial-faq)
 - [I2C FAQ](https://docs.particle.io/faq/particle-devices/i2c-faq)
 - [Local Builds using GCC-ARM](https://docs.particle.io/faq/particle-tools/local-build/photon/)
@@ -93,8 +92,9 @@
 - [Photon Wi-Fi Monitor](https://github.com/rickkas7/wifimonitor)
 - [Particle and Google Geolocation API](https://github.com/rickkas7/locator)
 - [Particle Real-Time Clock tips](https://github.com/rickkas7/locator)
+- [po-util (Particle Offline Utility)](https://po-util.com/)
 
-### Tutorials
+## Tutorials
 
 - [Google Cloud Platform Integration](https://docs.particle.io/tutorials/integrations/google-cloud-platform/)
 - [Google Maps Integration](https://docs.particle.io/tutorials/integrations/google-maps/)
@@ -113,7 +113,7 @@
 - [Photon Network Locator Example](https://github.com/rickkas7/serverlocator)
 - [Flash firmware to Particle Devices from an SD card](https://github.com/rickkas7/sdfirmwareflash)
 
-### Hardware Datasheets
+## Hardware Datasheets
 
 - [Photon Datasheet](<https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/>)
 - [P1 Datasheet](<https://docs.particle.io/datasheets/photon-(wifi)/p1-datasheet/>)
@@ -122,7 +122,7 @@
 
 # Popular Libraries
 
-### Particle Libraries
+## Particle Libraries
 
 - [Internet Button](https://github.com/particle-iot/InternetButton.git)
 - [Asset Tracker](https://github.com/spark/AssetTracker.git)
@@ -130,7 +130,7 @@
 - [Relay Shield](https://build.particle.io/libs/RelayShield/0.0.6/tab/RelayShield.cpp)
 - [Maker Kit](https://github.com/spark/makerkit.git)
 
-### Community Libraries
+## Community Libraries
 
 - [neopixel](https://github.com/technobly/Particle-NeoPixel.git)
 - [blynk](https://build.particle.io/libs/blynk/0.5.3/tab/blynk.cpp)
